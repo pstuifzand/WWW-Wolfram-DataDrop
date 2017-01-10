@@ -64,7 +64,8 @@ WWW::Wolfram::DataDrop - Access the Wolfram DataDrop API
 
 =head1 DESCRIPTION
 
-WWW::Wolfram::DataDrop allow you to write to the Wolfram DataDrop API.
+WWW::Wolfram::DataDrop allows you to write to the Wolfram DataDrop API.
+It's not yet possible to create, remove or update DataDrops.
 
 =head1 AUTHOR
 

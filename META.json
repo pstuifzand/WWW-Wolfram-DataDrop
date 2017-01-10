@@ -37,6 +37,7 @@
       },
       "runtime" : {
          "requires" : {
+            "LWP::UserAgent" : "0",
             "perl" : "5.008005"
          }
       },
@@ -47,6 +48,17 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/pstuifzand/WWW-Wolfram-DataDrop/issues"
+      },
+      "homepage" : "https://github.com/pstuifzand/WWW-Wolfram-DataDrop",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/pstuifzand/WWW-Wolfram-DataDrop.git",
+         "web" : "https://github.com/pstuifzand/WWW-Wolfram-DataDrop"
+      }
+   },
+   "version" : "0.02"
 }
 
